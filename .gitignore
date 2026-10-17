@@ -6,3 +6,6 @@ __pycache__/
 *.duckdb
 *.duckdb.wal
 init.sql
+target/
+dbt_packages/
+logs/
