@@ -11,3 +11,4 @@ dbt_packages/
 logs/
 warehouse/**/data/
 polaris/deployment/charts/
+trino/deployment/charts/
